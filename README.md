@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Pasindu Lanka and I'm a Front-end Developer, from Sri Lanka</h2>
+###
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Pasindu%20Lanka&reversal=false&textBg=false)
+###
+
+<h2 align="left"></h2>
 
 ###
 

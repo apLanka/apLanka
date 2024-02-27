@@ -1,5 +1,5 @@
 ###
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Pasindu%20Lanka&reversal=false&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Pasindu%20Lanka&reversal=false&textBg=false)
 ###
 
 <h2 align="left"></h2>

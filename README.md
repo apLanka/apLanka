@@ -3,7 +3,7 @@
 I'm a passionate **Full Stack Developer** and **Mobile Developer** based in Sri Lanka. I specialize in building robust web applications and seamless mobile experiences that prioritize performance and user satisfaction. My mission is to create innovative, scalable solutions that solve real-world problems with cutting-edge technology.
 
 🌍 Based in Sri Lanka  
-📫 Reach me at: pasindulankaa@gmail.com
+📫 Reach me at: pasindulankaa@gmail.com             
 🔗 Connect with me: [LinkedIn](www.linkedin.com/in/aplanka) | [Portfolio](https://aplanka.dev)  
 💻 Explore my work: [apLanka](https://github.com/apLanka?tab=repositories)
 

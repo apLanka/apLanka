@@ -1,4 +1,4 @@
-# Hello, I'm Lanka ⚡
+# Hello, I'm Pasindu Lanka ⚡
 
 I'm a **Software Engineer** based in Sri Lanka, passionate about building distributed systems and scalable, high-performance applications. With over 3 years of industry experience, my focus is on creating robust architectures that solve complex, real-world problems.
 
